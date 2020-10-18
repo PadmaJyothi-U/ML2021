@@ -26,11 +26,11 @@
     - vivo
     - iphone
   + *What is the Budget?*
-    + Android
+    + For Android mobiles
       - 5000 to 10000 Rs
       - 10000 to 15000 Rs
       - 15000 to 20000 Rs
-    + IOS
+    + For IOS mobiles
       - 30000 to 40000 Rs
       - 40000 to 50000 Rs
       - 50000 to 60000 Rs
