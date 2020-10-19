@@ -5,7 +5,7 @@
   
 ## Team Members
 1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
-
+2.N.Naga Krishna,
 2.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
 
 
@@ -13,7 +13,7 @@
 ![Jarvis Design](https://github.com/PadmaJyothi-U/ML2021/blob/files/Jarvis%20Design.png)
 
 ## Youtube link for my bot
-   [[!bot](https://youtu.be/uQLwMbKEmrs)](https://youtu.be/uQLwMbKEmrs "Bot")
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://www.youtube.com/watch?v=uQLwMbKEmrs)
 
 ## Description
 * Name of the bot - **Jarvis**
