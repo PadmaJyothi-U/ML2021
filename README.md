@@ -5,8 +5,10 @@
   
 ## Team Members
 1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
-2.N.Naga Krishna,
-2.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
+
+2.N.Naga Krishna, nagakrishna.n@vishnu.edu.in
+
+3.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
 
 
 ## Design model 
